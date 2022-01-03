@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.exe
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.deps.json
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.runtimeconfig.json
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.dll
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\ref\Chapter 7 Push Down Automaton.dll
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\bin\Debug\net5.0\Chapter 7 Push Down Automaton.pdb
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.dll
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\ref\Chapter 7 Push Down Automaton.dll
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.pdb
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Chapter 7 Push Down Automaton\obj\Debug\net5.0\Chapter 7 Push Down Automaton.csproj.AssemblyReference.cache
